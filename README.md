@@ -11,5 +11,5 @@ Larq >= 0.74
 Tensorflow datasets
 
 # Code
-1. Open the Jupyter Notebooks for dataset
+1. Open the Jupyter Notebooks for required task / dataset
 2. for <b>Bop</b> optimizer set the value for train and test as true
